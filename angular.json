@@ -23,6 +23,7 @@
               "src/assets"
             ],
             "styles": [
+              "/Users/user/Desktop/Sharpening my tools/Learning Angular 6/AngularV6-MaterialDesign/node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
